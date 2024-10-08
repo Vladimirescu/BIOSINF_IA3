@@ -28,7 +28,7 @@ This repository contains all lectures and project(s) details.
 
 ## Group Presentation:
 
-Each {2, 3}-student group will make a $\approx$ 30 minute presentation on a given topic, chosen from the [following list](), highlighting the current State-of-the-Art (SoA) and discussing a range of applications related to the subject.
+Each {2, 3}-student group will make a $\approx$ 30 minute presentation on a given topic, chosen from the [following list](GroupPresentationProjects.md), highlighting the current State-of-the-Art (SoA) and discussing a range of applications related to the subject.
 
 The following grading rules will be applied:
 - **Students who fail to signup for a presentation date until deadline will be penalised by 10% of their final grade** 
@@ -39,7 +39,7 @@ The following grading rules will be applied:
 
 ## Group Project
 
-Each 2-student group will implement and present a technical project, chosen from the [following list](), focusing on  technical details and experiments.
+Each 2-student group will implement and present a technical project, chosen from the [following list](GroupProjects.md), focusing on  technical details and experiments.
 
 The following grading rules will be applied:
 - 50%: Project presentation and Q&A
