@@ -11,7 +11,7 @@ This repository contains all lectures and project(s) details.
 | [Peer grading reports](#peer-grading-reports) | 10 |
 | Written Exam | 20 |
 |              |    |
-| Total | 110 |
+| **Total** | 110 |
 
 ## **Courses** schedule:
 
@@ -50,7 +50,7 @@ The following grading rules will be applied:
 |  Group Presentation: Topic Choosing | |
 |  Group Presentation: Submission  |   |
 |  Group Presentation: Signup |   |
-|
+| | |
 |  Group Project: Topic Choosing |  |
 |  Group Project: Submission | |
 
