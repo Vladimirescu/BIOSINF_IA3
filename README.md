@@ -18,7 +18,7 @@ This repository contains all lectures and project(s) details.
 | **Nr.** | **Date** |       **Topic**       | **Materials** |
 |:-------:|:--------:|:---------------------:|:-------------:|
 |    0    |  9.09   |           Intro   |
-|    1    |  16.09  | Adversarial attacks &defenses  |             |
+|    1    |  16.09  | Adversarial attacks & defenses  |             |
 |    2    |  23.09   | Adversarial attacks & defenses |        |
 |    3    |     |  |               |
 |    4    |     |  |               |
