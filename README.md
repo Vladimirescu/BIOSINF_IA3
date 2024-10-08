@@ -27,15 +27,14 @@ This repository contains all lectures and project(s) details.
 
 ## Group Presentation:
 
-Each group will bla bla ...
+Each {2, 3}-student group will make a $\approx$ 30 minute presentation on a given topic, highlighting the current State-of-the-Art (SoA) and discussing a range of applications related to the subject.
 
 The following grading rules will be applied:
 - **Students who fail to signup for a presentation date until deadline will be penalised by 10% of their final grade** 
 - 20% : 
 - 30% :
 - 40% :
-- 10% : [Peer Grading Reports](#peer-grading-reports) from other students **who are present during the presentation** 
-
+- 10% : [Peer Grading Reports](#peer-grading-reports) - this corresponds to the average grade given by fellow colleagues **who were present during the presentation**, who will afterwards provide their opinion on the presentation and upload a final report using [this template]()
 
 ## Group Project
 
