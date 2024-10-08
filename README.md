@@ -17,13 +17,14 @@ This repository contains all lectures and project(s) details.
 
 | **Nr.** | **Date** |       **Topic**       | **Materials** |
 |:-------:|:--------:|:---------------------:|:-------------:|
-|    1    |     | a  |             |
-|    2    |     | b |        |
-|    3    |     | c |               |
-|    4    |     | d |               |
-|    5    |     | e |                 |
-|    6    |     | f |               |
-|    -    |   **x**    |    **Written Exam**    |   All   |
+|    0    |  9.09   |           Intro   |
+|    1    |  16.09  | Adversarial attacks &defenses  |             |
+|    2    |  23.09   | Adversarial attacks & defenses |        |
+|    3    |     |  |               |
+|    4    |     |  |               |
+|    5    |     |  |                 |
+|    6    |     |  |               |
+|    -    |   **?**    |    **Written Exam**    |   All   |
 
 ## Group Presentation:
 
