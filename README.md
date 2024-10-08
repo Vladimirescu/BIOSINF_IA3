@@ -64,7 +64,7 @@ Each student can obtain 10 points by writing a report (using [this template](pee
 ## Recommended References:
 - Ceva atacuri & defensuri
 - Ceva GAN
-- Ceva Atentie + transformer
+- [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](https://slazebni.cs.illinois.edu/spring17/#peer)
 - [MIT Deep Learning Book - Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
 - [Neural Networks and Deep Learning - A Textbook](https://www.charuaggarwal.net/neural.htm)
 - [Awesome Deep Learning - A curated list of awesome Deep Learning tutorials and projects](https://github.com/ChristosChristofidis/awesome-deep-learning)
