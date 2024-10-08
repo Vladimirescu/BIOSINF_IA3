@@ -44,7 +44,7 @@ The following grading rules will be applied:
 - 50%: Project presentation and Q&A
 - 50%: Project Live Demo, after the presentation
 
-**No extensive report submission is required.**
+**No extensive report is required, only a presentation and source code.**
 
 ## Peer Grading Reports
 Each student can obtain 10 points by writing a report (using [this template]()) on other students' presentations (at least 2 different presentations), **to which they were present**, and verbally offer their opinion after the presentation.
