@@ -47,17 +47,17 @@ The following grading rules will be applied:
 
 | **Name** | **Date** |
 |:-------:|:--------:|
-|  Group Presentation Topic Choosing | |
-|  Group Presentation Submission  |   |
-|  Group Presentation Signup |   |
+|  Group Presentation: Topic Choosing | |
+|  Group Presentation: Submission  |   |
+|  Group Presentation: Signup |   |
 |
-|  Group Project Topic Choosing |  |
-|  Group Project Submission | |
+|  Group Project: Topic Choosing |  |
+|  Group Project: Submission | |
 
 ## Recommended References:
-- [Convex Optimization – Boyd and Vandenberghe](https://stanford.edu/~boyd/cvxbook/)
-- [Berkley Convex Optimization and Approximation course](https://ee227c.github.io)
-- [EPFL Optimization for ML Course](https://github.com/epfml/OptML_course)
+- Ceva atacuri & defensuri
+- Ceva GAN
+- Ceva Atentie + transformer
 - [MIT Deep Learning Book - Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
 - [Neural Networks and Deep Learning - A Textbook](https://www.charuaggarwal.net/neural.htm)
 - [Awesome Deep Learning - A curated list of awesome Deep Learning tutorials and projects](https://github.com/ChristosChristofidis/awesome-deep-learning)
@@ -65,6 +65,6 @@ The following grading rules will be applied:
 <hr>
 
 Contact us if you have any questions via:
-- [ana_antonia.neacsu@upb.ro](ana_antonia.neacsu@upb.ro)
-- [vlad.vasilescu2111@upb.ro](vlad.vasilescu2111@upb.ro)
+- [ana_antonia.neacsu@upb.ro](mailto:ana_antonia.neacsu@upb.ro)
+- [vlad.vasilescu2111@upb.ro](mailto:vlad.vasilescu2111@upb.ro)
 - MS Teams chat.
