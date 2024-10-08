@@ -35,7 +35,7 @@ The following grading rules will be applied:
 - 20% : 
 - 30% :
 - 40% :
-- 10% : [Peer Grading Reports](#peer-grading-reports) - this corresponds to the average grade given by fellow colleagues **who were present during the presentation**, who will afterwards provide their opinion on the presentation and upload a final report using [this template]()
+- 10% : [Peer Grading Reports](#peer-grading-reports) - this corresponds to the average grade given by fellow colleagues **who were present during the presentation**, who will afterwards provide their opinion on the presentation and upload a final report using [this template](peer_grading_form.docx)
 
 ## Group Project
 
@@ -48,7 +48,7 @@ The following grading rules will be applied:
 **No extensive report is required, only a presentation and source code.**
 
 ## Peer Grading Reports
-Each student can obtain 10 points by writing a report (using [this template]()) on other students' presentations (at least 2 different presentations), **to which they were present**, and verbally offer their opinion after the presentation.
+Each student can obtain 10 points by writing a report (using [this template](peer_grading_form.docx)) on other students' presentations (at least 2 different presentations), **to which they were present**, and verbally offer their opinion after the presentation.
 
 ## Important deadlines:
 
