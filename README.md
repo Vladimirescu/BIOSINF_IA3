@@ -37,8 +37,8 @@ The following grading rules will be applied:
 
 - **Outline and Bibliography (20% of the presentation grade)** : By the end of Sunday the week before you are scheduled to present, one member of the group must send Ana and Vlad (by mail or Teams) a brief outline and list of references you plan to cover. **This is a real deadline -- failure to submit the outline on time will forfeit this portion of the grade for your team and may negatively affect the final presentation grade.**
 - **Slides (30% of presentation grade)** : By the end of the day before the scheduled presentation, the group must send Ana and Vlad the slides in PowerPoint or PDF format, to be made available to all the students on the course webpage. Be sure to put your names on the title slide and an extended reading list on the final slide. Late submission of the slides will forfeit this portion of the grade. Please see the note on credit attribution below, as failure to follow those guidelines will negatively affect this portion of your grade.
-- **Lecture presentation (40% of presentation grade)**: The presentations will be graded based on clarity, technical depth, successful synthesis of content from multiple papers, ability to involve the rest students, and the answers on the questions raised from both profesors and other students
-- **[Peer Grading Reports](#peer-grading-reports) (10% of presentation grade)** :- this corresponds to the average grade given by fellow colleagues **present during the presentation**. By present, we mean he/she asked at least one question and afterwards provide their opinion on the presentation and upload a final report using [this template](peer_grading_form.docx)
+- **Lecture presentation (40% of presentation grade)**: The presentations will be graded based on clarity, technical depth, successful synthesis of content from multiple papers, ability to involve the rest students, and the answers on the questions raised from both profesors and other students.
+- **[Peer Grading Reports](#peer-grading-reports) (10% of presentation grade)** :- this corresponds to the average grade given by fellow colleagues **present during the presentation**. By present, we mean he/she asked at least one question and afterwards provide their opinion on the presentation and upload a final report using [this template](peer_grading_form.docx).
 
   **Guidelines for creating a successful presentation:**
 
@@ -62,7 +62,7 @@ The following grading rules will be applied:
 
 ## Group Project
 
-Each 2-student group will implement and present a technical project, focusing on  technical details and experiments. More details about this [here](GroupProjects.md)
+Each 2-student group will implement and present a technical project, focusing on  technical details and experiments. More details about this [here](GroupProjects.md).
 
 The following grading rules will be applied:
 - 50%: Project presentation and Q&A
