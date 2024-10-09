@@ -29,7 +29,6 @@ The purpose of this project is to explore the vulnerabilities of machine learnin
    - **Object Recognition:** Classifying images into categories, such as identifying objects in photographs.
    - **Music Genre Classification:** Categorizing music tracks based on their genre using audio features.
    - **Sentiment Analysis:** Classifying text data (e.g., reviews or tweets) as positive, negative, or neutral sentiment.
-   - **Handwritten Digit Recognition:** Recognizing and classifying handwritten digits from images (e.g., MNIST).
    - **Facial Expression Recognition:** Identifying emotions portrayed in facial expressions from images.
    - **Spam Detection:** Classifying emails as spam or not spam based on textual features.
    - **Medical Image Diagnosis:** Classifying medical images (e.g., X-rays, MRIs) for disease detection.
