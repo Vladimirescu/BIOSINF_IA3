@@ -47,7 +47,7 @@ The purpose of this project is to explore the vulnerabilities of machine learnin
    - **Gradient Masking:** Using techniques that obscure the gradient information to make it harder for adversaries to generate effective attacks.
    - **Defensive Distillation:** A technique that aims to reduce the sensitivity of the model to adversarial perturbations through a two-step training process.
    - **Feature Squeezing:** Reducing the complexity of the input by squeezing out unimportant features to lower the attack effectiveness.
-   - **Lipschitz regularization** Train the network under spectral constraints in order to reduce the effect of the perturbation.
+   - **Lipschitz regularization:** Train the network under spectral constraints in order to reduce the effect of the perturbation.
 
 5. **Demonstration of Work:**  
    Each team will have to do the code implemetation of the chosen methods, **without using an existing library**. Each team will be required to demonstrate their implementation and findings. This should include:
@@ -56,7 +56,7 @@ The purpose of this project is to explore the vulnerabilities of machine learnin
    - Presenting the results of the defense mechanisms and their impact on restoring accuracy against adversarial examples.
 
 6. **Documentation and Source Code:**  
-   Teams must provide clean and well-documented source code for their implementations. This should include:
+   Teams must provide clean and well-documented git repository including the source-code for their implementation. This should include:
    - A README file that explains how to set up and run the code.
    - A brief description of the algorithms and methods used.
    - Any additional notes that may assist us in understanding the project.
