@@ -18,7 +18,7 @@ This repository contains all lectures and project(s) details.
 | **Nr.** | **Date** |       **Topic**       | **Materials** |
 |:-------:|:--------:|:---------------------:|:-------------:|
 |    0    |  9.10   |           Intro   |
-|    1    |  16.10 - 23.10  | Adversarial attacks   |             |
+|    1    |  16.10 - 23.10  | Adversarial attacks   |     [slides](Courses/Cap_I_Attack_Strategies.pdf)        |
 |    2    |  30.10 - 06.11  | Defense strategies |        |
 |    3    |  13.11   | GANs |               |
 |    4    |  20.11  | Diffusion |               |
