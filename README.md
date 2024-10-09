@@ -17,13 +17,14 @@ This repository contains all lectures and project(s) details.
 
 | **Nr.** | **Date** |       **Topic**       | **Materials** |
 |:-------:|:--------:|:---------------------:|:-------------:|
-|    0    |  9.09   |           Intro   |
-|    1    |  16.09  | Adversarial attacks & defenses  |             |
-|    2    |  23.09   | Adversarial attacks & defenses |        |
-|    3    |     |  |               |
-|    4    |     |  |               |
-|    5    |     |  |                 |
-|    6    |     |  |               |
+|    0    |  9.10   |           Intro   |
+|    1    |  16.10 - 23.10  | Adversarial attacks   |             |
+|    2    |  30.10 - 06.11  | Defense strategies |        |
+|    3    |  13.11   | GANs |               |
+|    4    |  20.11  | Diffusion |               |
+|    5    |  27.11   |  Transformers |                 |
+|    6    |    04.12 - 08.01 | Student lectures |               |
+|    7    |  15.01.2025 | Project presentation| |
 |    -    |   **?**    |    **Written Exam**    |   All   |
 
 
