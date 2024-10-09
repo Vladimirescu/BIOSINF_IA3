@@ -71,7 +71,7 @@ The following grading rules will be applied:
 **No extensive report is required, only a presentation and source code.**
 
 ## Peer Grading Reports
-Each student can obtain 10 points by writing two reports (using [this template](peer_grading_form.docx)) on other students' presentations (at least 2 different presentations), **to which they were present**, and verbally offer their opinion after the presentation. Reports will be anonymous to the other students, but not to the professors. The scores in the reports will be used to calculate the peer portion of the presentation grade for the respective team. Reports should be submitted by email to Ana and Vlad. In the subject of the email, put "mm/dd peer grading report" (where mm/dd is the date of the lecture you are reviewing).
+Each student can obtain 10 points by writing two reports (using [this template](peer_grading_form.docx)) on other students' presentations (at least 2 different presentations), **to which they were present**, and verbally offer their opinion after the presentation. Reports will be anonymous to the other students, but not to the professors. The scores in the reports will be used to calculate the peer portion of the presentation grade for the respective team. Reports should be submitted by email to Ana and Vlad. In the subject of the email, put "mm/dd peer grading report topic" (where mm/dd is the date of the lecture you are reviewing, and topic is the name of the presentation).
 
 ## Important deadlines:
 
@@ -79,7 +79,7 @@ Each student can obtain 10 points by writing two reports (using [this template](
 |:-------:|:--------:|
 |  Group Presentation: Topic Choosing | October $16^{th}$, 23:59 |
 |  Group Presentation: Submission  | Sunday before presentation |
-|  Group Presentation: Signup | October $16^{th}$, 23:59 |
+|  Group Presentation: Signup | October $16^{th}$, 09:00 |
 | | |
 |  Group Project: Topic Choosing | December $23^{rd}, 23:59$ |
 |  Group Project: Submission | January $14^{th}$, 23:59 |
