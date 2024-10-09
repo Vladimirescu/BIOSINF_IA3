@@ -77,9 +77,9 @@ Each student can obtain 10 points by writing two reports (using [this template](
 
 | **Name** | **Date** |
 |:-------:|:--------:|
-|  Group Presentation: Topic Choosing | September $16^{th}$, 23:59 |
+|  Group Presentation: Topic Choosing | October $16^{th}$, 23:59 |
 |  Group Presentation: Submission  | Sunday before presentation |
-|  Group Presentation: Signup | September $16^{th}$, 23:59 |
+|  Group Presentation: Signup | October $16^{th}$, 23:59 |
 | | |
 |  Group Project: Topic Choosing | December $23^{rd}, 23:59$ |
 |  Group Project: Submission | January $14^{th}$, 23:59 |
