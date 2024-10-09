@@ -63,7 +63,11 @@ Projects will be evaluated based on the following:
 - Quality and thoroughness of experimental results and analysis.
 
 ## Topic assignment: 
-The following table smmarises some possible choices for the project. Feel free to mix-and-match however you want the attacks, defenses and application that you choose. Each team has up to December 23rd to decide upon the configuration they will test for their final project (application/ 2 attacks/ 2 defenses). The following rules must apply: 
+The following table smmarises some possible choices for the project. Feel free to mix-and-match however you want the attacks, defenses and application that you choose. Each team has up to December 23rd to decide upon the configuration they will test for their final project: 
+
+**1 application/ 2 attacks/ 2 defenses**
+
+The following rules must apply: 
 - There cannot be two teams with the same configuration
 - No more than two distinct teams can choose the same application.
  Configuration assignment is first come, first served, though in case nobody signs up for some topics, we may ask some students to switch to ensure coverage.
