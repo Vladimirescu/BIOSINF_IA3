@@ -1,18 +1,12 @@
-| **Nr** | **Title** | **Additional Requirements** |
-|:-------:|:--------:|:--------:|
-| 1 | |
-| 2 | |
-| 3 | |
-| 4 | |
-| 5 | |
-| 6 | |
-| 7 | |
-| 8 | |
-| 9 | |
-| 10 | |
-| 11 | |
-| 12 | |
-| 13 | |
+| **Nr** | **Attack** | **Defense category** | Application |
+|:-------:|:--------:|:--------:|:--------:|
+| 1 | PGD | Adversarial Training | Object Recognition
+| 2 | Carlini & Wagner Attack | Gradient Masking | Music Genre Classification
+| 3 | DeepFool | Defensive Distillation | Sentiment Analysis
+| 4 | DDN | Feature Squeezing | Facial Expression Recognition
+| 5 | FMN | Lipschitz Regularization | Spam Detection
+| 6 | | | Medical Image Diagnosis
+| 7 | | | Document Classification
 
 # Project Description: Implementing Adversarial Attacks and Defense Mechanisms
 
@@ -36,10 +30,11 @@ The purpose of this project is to explore the vulnerabilities of machine learnin
 
 3. **Implement Adversarial Attacks:**  
    Teams will implement two different adversarial attack algorithms. The attacks can be chosen from the ones presented in the class or can be other methods, both black-box or white-box. The students are encourged also to come-up with their own version. Examples of suitable attacks include:
-   - **Fast Gradient Sign Method (FGSM):** A first-order attack method that perturbs the input data based on the gradient of the loss.
-   - **Projected Gradient Descent (PGD):** An iterative attack method that refines the adversarial example in multiple steps.
-   - **Carlini & Wagner Attack:** A powerful optimization-based attack for crafting adversarial examples.
-   - **DeepFool:** A method that rapidly generates perturbed images while remaining as close to the original as possible.
+   - **[Projected Gradient Descent (PGD)](https://www.utdallas.edu/~mxk055100/courses/adv-ml-19f/1706.06083.pdf):** An iterative attack method that refines the adversarial example in multiple steps.
+   - **[Carlini & Wagner Attack](https://ieeexplore.ieee.org/iel7/7957740/7958557/07958570.pdf):** A powerful optimization-based attack for crafting adversarial examples.
+   - **[DeepFool](https://openaccess.thecvf.com/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf):** A method that rapidly generates perturbed images while remaining as close to the original as possible.
+   - **[DDN](http://openaccess.thecvf.com/content_CVPR_2019/papers/Rony_Decoupling_Direction_and_Norm_for_Efficient_Gradient-Based_L2_Adversarial_Attacks_CVPR_2019_paper.pdf)**: Decouples the direction and the norm of the adversarial perturbation that is added to the image.
+   - **[FMN](https://proceedings.neurips.cc/paper_files/paper/2021/file/a709909b1ea5c2bee24248203b1728a5-Paper.pdf)**: Proposes a more efficient attack generation compared to DDN
 
 4. **Implement Defense Mechanisms:**  
    Teams will implement two defense techniques against adversarial attacks. The defenses can be chosen for the strategies presented in the course, or others found in the literature. Possible defense mechanisms include:
