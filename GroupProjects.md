@@ -39,6 +39,7 @@ The purpose of this project is to explore the vulnerabilities of machine learnin
    Each team will have to do the code implemetation of the chosen methods, **without using an existing library**. Each team will be required to demonstrate their implementation and findings. This should include:
    - Showing the results of the classification task without adversarial attacks.
    - Demonstrating the effects of the implemented adversarial attacks on the model's performance.
+   - Comparing the performance of their own implementation for defense / attack against the official implementation
    - Presenting the results of the defense mechanisms and their impact on restoring accuracy against adversarial examples.
 
 6. **Documentation and Source Code:**  
