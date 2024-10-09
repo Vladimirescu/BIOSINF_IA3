@@ -1,12 +1,3 @@
-| **Nr** | **Attack** | **Defense category** | Application |
-|:-------:|:--------:|:--------:|:--------:|
-| 1 | PGD | Adversarial Training | Object Recognition
-| 2 | Carlini & Wagner Attack | Gradient Masking | Music Genre Classification
-| 3 | DeepFool | Defensive Distillation | Sentiment Analysis
-| 4 | DDN | Feature Squeezing | Facial Expression Recognition
-| 5 | FMN | Lipschitz Regularization | Spam Detection
-| 6 | | | Medical Image Diagnosis
-| 7 | | | Document Classification
 
 # Project Description: Implementing Adversarial Attacks and Defense Mechanisms
 
@@ -16,7 +7,7 @@ The purpose of this project is to explore the vulnerabilities of machine learnin
 ## Project Tasks:
 
 1. **Team Formation:**  
-   Students will form teams of up to 3 members.
+   Students will form teams of up to 2 members.
 
 2. **Choose a Classification Task:**  
    Each team must select a classification problem from the following possible tasks:
@@ -69,3 +60,20 @@ Projects will be evaluated based on the following:
 - Effectiveness of the adversarial attacks and defenses.
 - Clarity and organization of the presentation and documentation.
 - Quality and thoroughness of experimental results and analysis.
+
+## Topic assignment: 
+The following table smmarises some possible choices for the project. Feel free to mix-and-match however you want the attacks, defenses and application that you choose. Each team has up to December 23rd to decide upon the configuration they will test for their final project (application/ 2 attacks/ 2 defenses). The following rules must apply: 
+- There cannot be two teams with the same configuration
+- No more than two distinct teams can choose the same application.
+ Configuration assignment is first come, first served, though in case nobody signs up for some topics, we may ask some students to switch to ensure coverage.
+To secure a project configuration, the students will fill in the sign-up document provided in the Teams group. 
+
+| **Nr** | **Attack** | **Defense category** | Application |
+|:-------:|:--------:|:--------:|:--------:|
+| 1 | PGD | Adversarial Training | Object Recognition
+| 2 | Carlini & Wagner Attack | Gradient Masking | Music Genre Classification
+| 3 | DeepFool | Defensive Distillation | Sentiment Analysis
+| 4 | DDN | Feature Squeezing | Facial Expression Recognition
+| 5 | FMN | Lipschitz Regularization | Spam Detection
+| 6 | | | Medical Image Diagnosis
+| 7 | | | Document Classification
