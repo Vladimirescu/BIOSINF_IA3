@@ -62,7 +62,7 @@ The following grading rules will be applied:
 
 ## Group Project
 
-Each 2-student group will implement and present a technical project, chosen from the [following list](GroupProjects.md), focusing on  technical details and experiments.
+Each 2-student group will implement and present a technical project, focusing on  technical details and experiments. More details about this [here](GroupProjects.md)
 
 The following grading rules will be applied:
 - 50%: Project presentation and Q&A
