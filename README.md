@@ -19,10 +19,8 @@ This repository contains all lectures and project(s) details.
 |:-------:|:--------:|:---------------------:|:-------------:|
 |    0    |  9.10   |           Intro   |
 |    1    |  16.10 - 23.10  | Adversarial attacks   |     [slides](Courses/Cap_I_Attack_Strategies.pdf)        |
-|    2    |  30.10 - 06.11  | Defense strategies |        |
-|    3    |  13.11   | GANs |               |
-|    4    |  20.11  | Diffusion |               |
-|    5    |  27.11   |  Transformers |                 |
+|    2    |  30.10 - 13.11  | Defense strategies |    [slides](Courses/Cap_II_Defense_Strategies.pdf)    |
+|    3    |  20.11 - 27.11 | GANs |               |
 |    6    |    04.12 - 08.01 | Student lectures |               |
 |    7    |  15.01.2025 | Project presentation| |
 |    -    |   **?**    |    **Written Exam**    |   All   |
