@@ -20,9 +20,12 @@ This repository contains all lectures and project(s) details.
 |    0    |  9.10   |           Intro   |
 |    1    |  16.10 - 23.10  | Adversarial attacks   |     [slides](Courses/Cap_I_Attack_Strategies.pdf)        |
 |    2    |  30.10 - 13.11  | Defense strategies |    [slides](Courses/Cap_II_Defense_Strategies.pdf)    |
-|    3    |  20.11 - 27.11 | GANs |               |
-|    6    |    04.12 - 08.01 | Student lectures |               |
-|    7    |  15.01.2025 | Project presentation| |
+|    3    |  20.11 - 27.11 | GANs |   [slides](Courses/Cap_III_GANs.pdf)             |
+|    4    |  04.12 | Student lectures - VAEs & Few-Shot Learning |               |
+|    5    |  11.12 | Student lectures - Applications of Generative AI in Art & Text Generation with Language Models	& Data Distillation Strategies |               |
+|    6    |  18.12 | Student lectures - Transformers & Generative AI for Data Augmentation |               |
+|    7    |  08.01 | Student lectures - Generative Models in Drug Discovery & Flow-based Generative Modeling & Multi-modal Generative Models |               |
+|    8    |  15.01.2025 | Project presentation| |
 |    -    |   **?**    |    **Written Exam**    |   All   |
 
 
