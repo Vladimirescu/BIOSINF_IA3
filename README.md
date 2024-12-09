@@ -21,7 +21,7 @@ This repository contains all lectures and project(s) details.
 |    1    |  16.10 - 23.10  | Adversarial attacks   |     [slides](Courses/Cap_I_Attack_Strategies.pdf)        |
 |    2    |  30.10 - 13.11  | Defense strategies |    [slides](Courses/Cap_II_Defense_Strategies.pdf)    |
 |    3    |  20.11 - 27.11 | GANs |   [slides](Courses/Cap_III_GANs.pdf)             |
-|    4    |  04.12 | Student lectures - VAEs & Few-Shot Learning |               |
+|    4    |  04.12 | Student lectures - VAEs & Few-Shot Learning |          [VAEs](Student_lectures/Variational_Autoencoders_VAEs_IA3_lecture.pdf)    [FewShot](Student_lectures/Few_Shot_Learning_IA3_lecture.pdf)     |
 |    5    |  11.12 | Student lectures - Applications of Generative AI in Art & Text Generation with Language Models	& Data Distillation Strategies |               |
 |    6    |  18.12 | Student lectures - Transformers & Generative AI for Data Augmentation |               |
 |    7    |  08.01 | Student lectures - Generative Models in Drug Discovery & Flow-based Generative Modeling & Multi-modal Generative Models |               |
