@@ -13,6 +13,7 @@ The purpose of this project is to explore the vulnerabilities of machine learnin
    Each team must select a classification problem from the following possible tasks:
    - **Object Recognition:** Classifying images into categories, such as identifying objects in photographs.
    - **Music Genre Classification:** Categorizing music tracks based on their genre using audio features.
+   - **Speech Command Classification:** Categorizing speech recordings into several commands.
    - **Sentiment Analysis:** Classifying text data (e.g., reviews or tweets) as positive, negative, or neutral sentiment.
    - **Facial Expression Recognition:** Identifying emotions portrayed in facial expressions from images.
    - **Spam Detection:** Classifying emails as spam or not spam based on textual features.
@@ -33,7 +34,9 @@ The purpose of this project is to explore the vulnerabilities of machine learnin
    - **Gradient Masking:** Using techniques that obscure the gradient information to make it harder for adversaries to generate effective attacks.
    - **Defensive Distillation:** A technique that aims to reduce the sensitivity of the model to adversarial perturbations through a two-step training process.
    - **Feature Squeezing:** Reducing the complexity of the input by squeezing out unimportant features to lower the attack effectiveness.
-   - **Lipschitz Regularization:** Train the network under spectral constraints in order to reduce the effect of the perturbation.
+   - **Lipschitz Regularization:** Train the network under spectral constraints in order to reduce the effect of the perturbation. It can be applied either for the entire output vector, or at logit level.
+   - **Jacobian Regularization:** Technique used for smoothing the loss landscape around clean examples, hence making it harder for an attacker to leverage chaotic gradients.
+   - **Robustness by construction:** This category involves techniques to construct architectures which have an inherent robustness to input perturbations.
 
 5. **Demonstration of Work:**  
    Each team will have to do the code implemetation of the chosen methods, **without using an existing library**. Each team will be required to demonstrate their implementation and findings. This should include:
@@ -63,22 +66,18 @@ Projects will be evaluated based on the following:
 - Quality and thoroughness of experimental results and analysis.
 
 ## Topic assignment: 
-The following table smmarises some possible choices for the project. Feel free to mix-and-match however you want the attacks, defenses and application that you choose. Each team has up to December 23rd to decide upon the configuration they will test for their final project: 
+The following table smmarises some possible choices for the project. Feel free to mix-and-match however you want the attacks, defenses and application that you choose. Each team has to decide upon the configuration they will test for their final project: 
 
-**1 application/ 2 attacks/ 2 defenses**
+<div style="border: 1px solid #ccc; padding: 10px; border-radius: 6px; text-align: center; font-weight: bold;">
+1 application | 2 attacks | 2 defenses
+</div>
+
+
 
 The following rules must apply: 
 - There cannot be two teams with the same configuration
 - No more than two distinct teams can choose the same application.
  Configuration assignment is first come, first served, though in case nobody signs up for some topics, we may ask some students to switch to ensure coverage.
+
 To secure a project configuration, the students will fill in the sign-up document provided in the Teams group. 
 
-| **Nr** | **Attack** | **Defense category** | Application |
-|:-------:|:--------:|:--------:|:--------:|
-| 1 | PGD | Adversarial Training | Object Recognition
-| 2 | Carlini & Wagner Attack | Gradient Masking | Music Genre Classification
-| 3 | DeepFool | Defensive Distillation | Sentiment Analysis
-| 4 | DDN | Feature Squeezing | Facial Expression Recognition
-| 5 | FMN | Lipschitz Regularization | Spam Detection
-| 6 | | | Medical Image Diagnosis
-| 7 | | | Document Classification
