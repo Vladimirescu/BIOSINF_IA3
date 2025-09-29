@@ -6,9 +6,9 @@ This repository contains all lectures and project(s) details.
 
 | **Name** | **Points** |
 |:-------:|:--------:|
-| [Student Lectures](#👥-student-lectures) | 30 |
-| [Group Project](#💻-group-project) | 30 |
-| [Peer grading reports](#📋-peer-grading-reports) | 30 |
+| [Student Lectures](#student-lectures) | 30 |
+| [Group Project](#group-project) | 30 |
+| [Peer grading reports](#peer-grading-reports) | 30 |
 | Written Exam | 20 |
 |              |    |
 | **Total** | 110 |
@@ -63,7 +63,7 @@ The following grading rules will be applied:
 | | | |
 | Slides | By the end of the day before the scheduled presentation, the group must send Ana and Vlad the slides in **PDF format**, to be made available to all the students on the course webpage. Be sure to put your names on the title slide and an extended reading list on the final slide. Late submission of the slides will forfeit this portion of the grade. Please see the note on credit attribution below, as failure to follow those guidelines will negatively affect this portion of your grade. | 5p |
 | | | |
-| Peer grading | A small portion of your rgade for this activity will correspond to the average grade provided by your colleagues in their peer reviews. See [this section](#📋-peer-grading-reports) for more details. | 5p |
+| Peer grading | A small portion of your rgade for this activity will correspond to the average grade provided by your colleagues in their peer reviews. See [this section](#peer-grading-reports) for more details. | 5p |
 | | | |
 | Lecture presentation | he presentations will be graded based on clarity, technical depth, successful synthesis of content from multiple papers, ability to involve the rest students, and the answers on the questions raised from both profesors and other students. | 15p |
 | | | |

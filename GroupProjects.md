@@ -13,7 +13,7 @@ The purpose of this project is to explore the vulnerabilities of machine learnin
    Each team must select a classification problem from the following possible tasks:
    - **Object Recognition:** Classifying images into categories, such as identifying objects in photographs.
    - **Music Genre Classification:** Categorizing music tracks based on their genre using audio features.
-   - **Speech Command Classification:** Categorizing speech recordings into several commands.
+   - **Speech Command Classification:** Categorizing short-length speech recordings into several commands.
    - **Sentiment Analysis:** Classifying text data (e.g., reviews or tweets) as positive, negative, or neutral sentiment.
    - **Facial Expression Recognition:** Identifying emotions portrayed in facial expressions from images.
    - **Spam Detection:** Classifying emails as spam or not spam based on textual features.
