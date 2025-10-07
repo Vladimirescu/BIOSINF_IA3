@@ -19,4 +19,5 @@
 | 17 | Generative Models in Drug Discovery | Explore how generative models can aid in bioinformatics, particularly in generating new compounds for drug development. |
 | 18 | Ethics of Generative AI | Discuss the ethical implications and responsibilities surrounding the creation and deployment of generative AI technologies. |
 | 19 | Generative AI for Personalized Content Creation | Examine how generative AI can create personalized experiences in various fields, including marketing and entertainment. |
+| 20 | Machine Unlearning Techniques| Study state of the art machine unlearning methods and the main applications of such techniques.|
 
