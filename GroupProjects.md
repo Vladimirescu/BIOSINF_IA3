@@ -12,13 +12,13 @@ The purpose of this project is to explore the vulnerabilities of machine learnin
 2. **Choose a Classification Task:**  
    Each team must select a classification problem from the following possible tasks:
    - **Object Recognition:** Classifying images into categories, such as identifying objects in photographs.
-   - **Music Genre Classification:** Categorizing music tracks based on their genre using audio features.
    - **Speech Command Classification:** Categorizing short-length speech recordings into several commands.
    - **Sentiment Analysis:** Classifying text data (e.g., reviews or tweets) as positive, negative, or neutral sentiment.
-   - **Facial Expression Recognition:** Identifying emotions portrayed in facial expressions from images.
+   - **Facial Recognition:** Classifying certain individuals based on input RGB images.
    - **Spam Detection:** Classifying emails as spam or not spam based on textual features.
    - **Medical Image Diagnosis:** Classifying medical images (e.g., X-rays, MRIs) for disease detection.
    - **Document Classification:** Categorizing documents or articles into topics or genres.
+   - **Malware Detection:** Classifying binaries into safe (0) or malware (1).
 
 3. **Implement Adversarial Attacks:**  
    Teams will implement two different adversarial attack algorithms. The attacks can be chosen from the ones presented in the class or can be other methods, both black-box or white-box. The students are encourged also to come-up with their own version. Examples of suitable attacks include:
@@ -27,13 +27,16 @@ The purpose of this project is to explore the vulnerabilities of machine learnin
    - **[DeepFool](https://openaccess.thecvf.com/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf):** A method that rapidly generates perturbed images while remaining as close to the original as possible.
    - **[DDN](http://openaccess.thecvf.com/content_CVPR_2019/papers/Rony_Decoupling_Direction_and_Norm_for_Efficient_Gradient-Based_L2_Adversarial_Attacks_CVPR_2019_paper.pdf)**: Decouples the direction and the norm of the adversarial perturbation that is added to the image.
    - **[FMN](https://proceedings.neurips.cc/paper_files/paper/2021/file/a709909b1ea5c2bee24248203b1728a5-Paper.pdf)**: Proposes a more efficient attack generation compared to DDN
+   - **[Square Attack](https://arxiv.org/pdf/1912.00049)**: A query-efficient black-box attack that randomizes square-shaped perturbations at randomly chosen locations. It does not require gradient information.
+   - **[One Pixel Attack](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8601309)**: Instead of changing every pixel by a tiny amount (like PGD or C&W), sparse attacks focus on changing very few pixels (sometimes just one, or a small sparse subset) to fool the network.
+
 
 4. **Implement Defense Mechanisms:**  
    Teams will implement two defense techniques against adversarial attacks. The defenses can be chosen for the strategies presented in the course, or others found in the literature. Possible defense mechanisms include:
    - **Adversarial Training:** Training the model with a mixture of normal and adversarial examples to improve robustness.
    - **Gradient Masking:** Using techniques that obscure the gradient information to make it harder for adversaries to generate effective attacks.
    - **Defensive Distillation:** A technique that aims to reduce the sensitivity of the model to adversarial perturbations through a two-step training process.
-   - **Feature Squeezing:** Reducing the complexity of the input by squeezing out unimportant features to lower the attack effectiveness.
+   - **Input Quantization:** Reducing the complexity of the input by quantization to lower the attack effectiveness.
    - **Lipschitz Regularization:** Train the network under spectral constraints in order to reduce the effect of the perturbation. It can be applied either for the entire output vector, or at logit level.
    - **Jacobian Regularization:** Technique used for smoothing the loss landscape around clean examples, hence making it harder for an attacker to leverage chaotic gradients.
    - **Robustness by construction:** This category involves techniques to construct architectures which have an inherent robustness to input perturbations.
@@ -68,11 +71,7 @@ Projects will be evaluated based on the following:
 ## Topic assignment: 
 The following table smmarises some possible choices for the project. Feel free to mix-and-match however you want the attacks, defenses and application that you choose. Each team has to decide upon the configuration they will test for their final project: 
 
-<div style="border: 1px solid #ccc; padding: 10px; border-radius: 6px; text-align: center; font-weight: bold;">
-1 application | 2 attacks | 2 defenses
-</div>
-
-
+### 1 application | 3 attacks | 3 defenses
 
 The following rules must apply: 
 - There cannot be two teams with the same configuration
