@@ -114,6 +114,9 @@ Reports will be anonymous to your colleagues. The scores in the reports will be 
 
 ## Recommended References:
 - [Attacks and Defenses](https://nicholas.carlini.com/)
+- [Adversarial Machine Learning: A Taxonomy and Terminology of Attacks and Mitigations](https://www.nist.gov/publications/adversarial-machine-learning-taxonomy-and-terminology-attacks-and-mitigations)
+- [Lipschitz Continuity in Deep Learning: A Systematic Review
+of Theoretical Foundations, Estimation Methods, Regularization Approaches, and Certifiable Robustness](https://arxiv.org/pdf/2607.16329)
 - [GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 - [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](https://slazebni.cs.illinois.edu/spring17/#peer)
 - [MIT Deep Learning Book - Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://github.com/janishar/mit-deep-learning-book-pdf)
