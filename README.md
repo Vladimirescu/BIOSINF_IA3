@@ -18,7 +18,7 @@ This repository contains all lectures and project(s) details.
 | **Nr.** | **Date** |       **Topic**       | **Materials** |
 |:-------:|:--------:|:---------------------:|:-------------:|
 |    0    |  8.10   |           Intro   |
-|    1    |  15.10  | Adversarial attacks   |     [slides](Courses/Cap_I_Attack_Strategies.pdf)        |
+|    1    |  15.10  | Adversarial attacks   |     [slides](Courses/Cap_I_.Attack_Strategies.pdf)        |
 |    2    |  22.10  | Defense strategies |    [slides](Courses/Cap_II_Defense_Strategies.pdf)    |
 |    3    |  29.10 | GANs / Generative Models |   [slides](Courses/Cap_III_GANs.pdf)      [slides](Courses/Cap_IV_GenModels.pdf)        |
 |    4    |  5.11 | Student Lectures & Group Projects |
