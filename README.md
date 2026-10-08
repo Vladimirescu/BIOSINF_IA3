@@ -1,4 +1,4 @@
-# ETTI, BIOSINF, Course: *Artificial Intelligence III: Advanced Techniques for Developing Machine Learning Systems*, Fall 2025 
+# ETTI, BIOSINF, Course: *Artificial Intelligence III: Advanced Techniques for Developing Machine Learning Systems*, Fall 2026 
 
 This repository contains all lectures and project(s) details.  
 
