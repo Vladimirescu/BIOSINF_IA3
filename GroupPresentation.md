@@ -4,7 +4,7 @@
 | 2 | Vision-Language-Action-Models for Robotics | Investigate the architecture and applications of VLA models for Robots-related Applications |
 | 3 | Diffusion-based Text-to-Image Generation | Explore how diffusion models generate images from text prompts, showcasing the mechanics behind this recent trend in generative AI. |
 | 4 | Conditional Generative Models for Video Generation | Investigate the potential of conditional diffusion models in generating targeted outputs based on specific inputs or conditions. |
-| 5 | Deep Facke Detection for Videos | Research on current detection techniques for identifying geenrated videos and discuss their limitations |
+| 5 | Deep Fake Detection for Videos | Research on current detection techniques for identifying geenrated videos and discuss their limitations |
 | 6 | Variational Autoencoders (VAEs) | Explore the theory and applications of VAEs in generative modeling, including their use in image generation and unsupervised learning. |
 | 7 | Training safe deep learning systems with regularization methods | Provide a comprehensive guide on regularization techniques that promote safety and robustness in deep learning models. |
 | 8 | Training safe deep learning systems using certified methods | Offer insights into certified methods for ensuring reliability and safety in deep learning deployments. |
